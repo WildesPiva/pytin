@@ -1,0 +1,37 @@
+{
+    "name": "pytin",
+    "displayName": "Pytin",
+    "description": "A nice extension to use as a python theme. Based on the material theme, For those who like the simple.",
+    "version": "0.0.1",
+    "author": "Wildes Piva",
+    "publisher": "wildes",
+    "galleryBanner": {
+        "color": "090b10",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pytin Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pytin Theme-color-theme.json"
+            }
+        ]
+    }
+}

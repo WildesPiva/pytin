@@ -1,8 +1,8 @@
 {
     "name": "pytin",
-    "displayName": "Pytin",
+    "displayName": "Pytin Theme",
     "description": "A nice extension to use as a python theme. Based on the material theme, For those who like the simple.",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "author": "Wildes Piva",
     "publisher": "wildes",
     "galleryBanner": {
